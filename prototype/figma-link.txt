@@ -2,4 +2,7 @@ SaloneGov Figma Prototype
 
 Figma file key: WGewbKu90VdscpEA4vdZtL
 
+prototype link
+https://www.figma.com/design/WGewbKu90VdscpEA4vdZtL/SaloneGov-Government-Portal---9-UI-Frames?node-id=8-2&t=SnpH6RuXXpyWf5Nv-0
+
 This file stores the prototype reference for the SaloneGov Digital Public Good final project.
