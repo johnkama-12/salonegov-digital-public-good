@@ -1,0 +1,5 @@
+SaloneGov Figma Prototype
+
+Figma file key: WGewbKu90VdscpEA4vdZtL
+
+This file stores the prototype reference for the SaloneGov Digital Public Good final project.
